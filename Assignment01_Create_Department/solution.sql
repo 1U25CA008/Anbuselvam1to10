@@ -1,4 +1,3 @@
-
  Create database CollegeDB; 
  use CollegeDB; 
  CREATE TABLE Department ( 
